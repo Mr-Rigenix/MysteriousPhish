@@ -1,6 +1,4 @@
-![Uploading USER_SCOPED_TEMP_DATA_orca-image--101516522.jpeg…]()
-
-Command:
+#Commands:
 
 pkg update && pkg upgrade
 
@@ -21,3 +19,4 @@ cd MysteriousPhish
 ls
 
 bash main.sh
+![Uploading USER_SCOPED_TEMP_DATA_orca-image--101516522.jpeg…]()
