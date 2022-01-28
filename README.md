@@ -19,4 +19,4 @@ cd MysteriousPhish
 ls
 
 bash main.sh
-![Uploading USER_SCOPED_TEMP_DATA_orca-image--101516522.jpeg…]()
+![USER_SCOPED_TEMP_DATA_orca-image--101516522](https://user-images.githubusercontent.com/92598035/151563938-83571e95-95ab-45c0-8009-9d39c846b190.jpeg)
